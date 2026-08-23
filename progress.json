@@ -248,5 +248,14 @@
       "Unexpected files in working directory. Looks like you used the wrong reset mode."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787450973.088265,
+    "completed_at": 1787450974.423284,
+    "comments": [
+      "You have reset the repository to the correct state!"
+    ],
+    "status": "Completed"
   }
 ]
