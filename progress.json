@@ -239,5 +239,14 @@
       "It seems like the commit from Jan 13 is still present in the commit history."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "sensors-reset",
+    "started_at": 1787450880.213475,
+    "completed_at": 1787450884.172146,
+    "comments": [
+      "Unexpected files in working directory. Looks like you used the wrong reset mode."
+    ],
+    "status": "Incomplete"
   }
 ]
