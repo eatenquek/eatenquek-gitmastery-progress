@@ -293,5 +293,14 @@
       "Great job fast-forward merging only 'with-sally'!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "merge-squash",
+    "started_at": 1787752440.500445,
+    "completed_at": 1787752443.526107,
+    "comments": [
+      "You should be using squash merge, not regular merge."
+    ],
+    "status": "Incomplete"
   }
 ]
